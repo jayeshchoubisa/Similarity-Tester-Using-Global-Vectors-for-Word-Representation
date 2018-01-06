@@ -1,6 +1,6 @@
 # Similarity-Tester-Using-Global-Vectors-for-Word-Representation
 # Overview:
-#### This code will read and load vectors for the words for given sentences as per the input.It identifies cosine similarity using scipy's distance function.Average of vectors is taken and similarity is calculated.
+#### This code will read and load vectors for the words in the given sentences as per the input.It identifies cosine similarity using scipy's distance function.Average of vectors is taken and similarity is calculated.
 # Dependencies:
 #### 1. Scipy
 #### 2. Numpy
