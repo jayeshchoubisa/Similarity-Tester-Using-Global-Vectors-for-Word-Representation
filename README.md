@@ -9,7 +9,7 @@
 # Usage:
 #### Run this using jupyter notebook.Just type jupyter notebook in the main directory and the code will pop up in a browser window.
 # Output:
-#### This code will give you silmilarity score among the sentence 1 and sentence 2.
+#### This code will give you similarity score among the sentence 1 and sentence 2.
 
 
 
